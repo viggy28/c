@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore Visual Studio Code files
+**/.vscode/
+
+# Ignore IntelliJ IDEA files
+**/.idea/
+
+# Ignore all .iml files
+**/*.iml

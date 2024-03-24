@@ -1,0 +1,3 @@
+/Users/visi/Sourcecontrol/github.com/viggy28/c/uselibex/cmake-build-debug/CMakeFiles/uselibex.dir
+/Users/visi/Sourcecontrol/github.com/viggy28/c/uselibex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/visi/Sourcecontrol/github.com/viggy28/c/uselibex/cmake-build-debug/CMakeFiles/rebuild_cache.dir

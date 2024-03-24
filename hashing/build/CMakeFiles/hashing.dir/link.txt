@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hashing.dir/main.c.o -o hashing   -L/Users/visi/Sourcecontrol/github.com/Cyan4973/xxHash  -Wl,-rpath,/Users/visi/Sourcecontrol/github.com/Cyan4973/xxHash -lxxhash 
